@@ -1,7 +1,3 @@
 name = "aikalichat"
 main = "worker.js"
 compatibility_date = "2024-12-01"
-
-# Explicitly set these to avoid warnings
-workers_dev = true
-preview_urls = true
